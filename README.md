@@ -28,14 +28,15 @@ A great result would be the classification of stage directions according to TEI-
 
 More info here: http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-stage.html
 
-## Current state-of-affairs
+## "Roadmap" and current state-of-affairs
 - [x] get the corpus from the repository
 - [x] extract basic information
 - [x] get mean values of different parts-of-speech
+- [ ] _in process:_ try visualize the data (because why not)
 - [ ] _in process:_ annotate some directions
-- [ ] try run a Decision Tree / Random Forest
+- [ ] try run a Decision Tree / Random Forest / PCA / kNN / something else
 - [ ] write a paper
-- [ ] nail it while presenting
+- [ ] present it
 
 ## Source corpus
 I'm using RusDraCor. It can be explored on its [site](https://dracor.org/rus), and it's also possible to download it from its [Github repository](https://github.com/dracor-org/rusdracor).
