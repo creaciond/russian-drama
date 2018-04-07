@@ -7,7 +7,7 @@
 | ------------- | ------------- |
 | [directions-basic](./directions-basic.ipynb)|  Jupyter notebook: extracting some basic information about plays|
 | [means-merged-fetures](./means-merged-fetures.ipynb)| Jupyter notebook: mean POS counts, and merging with another dataset |
-| [data](./data) | Folder with `csv` files containing datasets |
+| [csv/](./csv) | Folder with `csv` files containing datasets |
 
 
 ## What is this all about?
