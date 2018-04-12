@@ -5,9 +5,11 @@
 
 | File/folder      | What's inside |
 | ------------- | ------------- |
+| [csv/](./csv) | Folder with `csv` files containing datasets |
 | [directions-basic](./directions-basic.ipynb)|  Jupyter notebook: extracting some basic information about plays|
 | [means-merged-fetures](./means-merged-fetures.ipynb)| Jupyter notebook: mean POS counts, and merging with another dataset |
-| [csv/](./csv) | Folder with `csv` files containing datasets |
+|[basic-clustering](./basic-clustering.ipynb)|First attempts to normalize directions, plot them and run clustering|
+
 
 
 ## What is this all about?
