@@ -40,5 +40,10 @@ More info here: http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-stage.ht
 - [ ] write a paper
 - [ ] present it
 
+### Deadlines
+1. _Somewhere around **May 18th**_ — sharing the paper with the reviewer,
+2. __May 23rd__ — uploading the paper into the system,
+3. __May 25th__ — presentation.
+
 ## Source corpus
 I'm using RusDraCor. It can be explored on its [site](https://dracor.org/rus), and it's also possible to download it from its [Github repository](https://github.com/dracor-org/rusdracor).
