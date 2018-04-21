@@ -6,14 +6,14 @@
 | File/folder      | What's inside |
 | ------------- | ------------- |
 | [csv/](./csv) | Folder with `csv` files containing datasets |
-| [directions-basic](./directions-basic.ipynb)|  Jupyter notebook: extracting some basic information about plays|
-| [means-merged-fetures](./means-merged-fetures.ipynb)| Jupyter notebook: mean POS counts, and merging with another dataset |
-|[basic-clustering](./basic-clustering.ipynb)|First attempts to normalize directions, plot them and run clustering|
+| [directions-basic.ipynb](./directions-basic.ipynb)|  Jupyter notebook: extracting some basic information about plays|
+| [means-merged-fetures.ipynb](./means-merged-fetures.ipynb)| Jupyter notebook: mean POS counts, and merging with another dataset |
+| [basic-clustering.ipynb](./basic-clustering.ipynb)|First attempts to normalize directions, plot them and run clustering|
 
 
 
 ## What is this all about?
-This is a repo with the code to my 3rd year coursework. Its title is _Linguistic Evolution of Stage Directions Between the 18th and 20th Centuries_, so it's going to be all stage directions and all linguistic :)
+This is a repo with the code to my 3rd year coursework. Its title is _Linguistic Analysis of Stage Directions in Russian Drama from the 18th to the 20th Century_, so it's going to be all stage directions and all linguistic :)
 
 ### What I want to achieve
 A great result would be the classification of stage directions according to TEI-5 markup convention. It looks as this:
