@@ -6,9 +6,10 @@
 | File/folder      | What's inside |
 | ------------- | ------------- |
 | [csv/](./csv) | Folder with `csv` files containing datasets |
-| [directions-basic.ipynb](./directions-basic.ipynb)|  Jupyter notebook: extracting some basic information about plays|
-| [means-merged-fetures.ipynb](./means-merged-fetures.ipynb)| Jupyter notebook: mean POS counts, and merging with another dataset |
-| [basic-clustering.ipynb](./basic-clustering.ipynb)|First attempts to normalize directions, plot them and run clustering|
+| [directions-basic.ipynb](./directions-basic.ipynb)| Extracting some basic information about plays |
+| [means-merged-fetures.ipynb](./means-merged-fetures.ipynb)| Mean POS counts, merging with another dataset |
+| [basic-clustering.ipynb](./basic-clustering.ipynb)| First attempts to normalize directions, plot them and run clustering|
+| [plot-plays.ipynb](./plot-plays.ipynb)| Drawing different plots visualising the data we got|
 
 
 
