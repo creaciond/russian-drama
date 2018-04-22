@@ -1,5 +1,9 @@
 # Stage Directions in Russian Drama
-3rd year coursework
+
+
+> <h3> Stage directions, quite literally, don't count. </h3>
+>   
+> In: Hardin L. Aasand (ed.): *Stage Directions in Hamlet. New essays and new directions.* Madison et al. 2003, p. 226. 
 
 ## What's in the repo?
 
