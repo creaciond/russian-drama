@@ -7,14 +7,21 @@
 
 ## What's in the repo?
 
-| File/folder      | What's inside |
-| ------------- | ------------- |
-| [csv/](./csv) | Folder with `csv` files containing datasets |
-| [directions-basic.ipynb](./directions-basic.ipynb)| Extracting some basic information about plays |
-| [means-merged-fetures.ipynb](./means-merged-fetures.ipynb)| Mean POS counts, merging with another dataset |
-| [basic-clustering.ipynb](./basic-clustering.ipynb)| First attempts to normalize directions, plot them and run clustering|
-| [plot-plays.ipynb](./plot-plays.ipynb)| Drawing different plots visualising the data we got|
+|                        File/folder                        |                                What's inside                        |
+| --------------------------------------------------------- | ------------------------------------------------------------------- |
+| [csv/](./csv)                                             | Comma-separated files with datasets                                 |
+| [requirements.txt](./requirements.txt)                    | List of packages required to run the notebooks                      |
+| [directions-basic.ipynb](./directions-basic.ipynb)        | Extracting some basic information about plays                       |
+| [means-merged-fetures.ipynb](./means-merged-fetures.ipynb)| Mean POS counts, merging with another dataset                       |
+| [basic-clustering.ipynb](./basic-clustering.ipynb)        | First attempts to normalize directions, plot them and run clustering|
+| [plot-plays.ipynb](./plot-plays.ipynb)                    | Drawing different plots visualising the data we got                 |
 
+### Dependencies
+All the dependencies are listed in `requirements.txt`. As a sidenote: the majority of the packages are shipped with Anaconda. If you have it installed, you'll only need to install `nltk` by yourself, and also to download NLTK data after that. In Python, this should be as follows:
+
+```python
+import nltk
+nltk.download()```
 
 
 ## What is this all about?
