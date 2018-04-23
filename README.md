@@ -21,7 +21,8 @@ All the dependencies are listed in `requirements.txt`. As a sidenote: the majori
 
 ```python
 import nltk
-nltk.download()```
+nltk.download()
+```
 
 
 ## What is this all about?
