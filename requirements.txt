@@ -4,4 +4,6 @@ matplotlib==2.1.2
 nltk==3.2.5
 numpy==1.14.0
 pandas==0.22.0
+pymorphy2==0.8
+pymorphy2-dicts==2.4.393442.3710985
 scikit-learn==0.19.1
