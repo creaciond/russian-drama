@@ -47,10 +47,10 @@ More info here: http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-stage.ht
 - [x] get the corpus from the repository
 - [x] extract basic information
 - [x] get mean values of different parts-of-speech
-- [ ] _in process:_ try visualize the data (because why not)
-- [ ] _in process:_ annotate some directions
+- [x] try visualize the data (because why not)
+- [x] annotate some directions
 - [ ] try run a Decision Tree / Random Forest / PCA / kNN / something else
-- [ ] write a paper
+- [ ] _in process:_ write a paper
 - [ ] present it
 
 ### Deadlines
