@@ -10,6 +10,7 @@
 |                        File/folder                        |                                What's inside                        |
 | --------------------------------------------------------- | ------------------------------------------------------------------- |
 | [csv/](./csv)                                             | Comma-separated files with datasets                                 |
+| [figures/](./figures)                                     | Figures from [plot-plays.ipynb](./plot-plays.ipynb)                 |
 | [requirements.txt](./requirements.txt)                    | List of packages required to run the notebooks                      |
 | [directions-basic.ipynb](./directions-basic.ipynb)        | Extracting some basic information about plays                       |
 | [means-merged-fetures.ipynb](./means-merged-fetures.ipynb)| Mean POS counts, merging with another dataset                       |
