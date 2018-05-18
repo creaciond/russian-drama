@@ -16,6 +16,7 @@
 | [means-merged-features.ipynb](./means-merged-features.ipynb)| Mean POS counts, merging with another dataset                       |
 | [plot-plays.ipynb](./plot-plays.ipynb)                      | Drawing different plots visualising the data we got                 |
 | [classification.ipynb](./classification.ipynb)              | Classifying the directions into TEI-P5 types                        |
+| [frequent-pos.ipynb](./frequent-pos.ipynb)                  | Most frequent parts of speech in the corpus                         |
 
 ### Dependencies
 All the dependencies are listed in `requirements.txt`. As a sidenote: the majority of the packages are shipped with Anaconda. If you have it installed, you'll only need to install `nltk` by yourself, and also to download NLTK data after that. In Python, this should be as follows:
