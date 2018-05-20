@@ -26,24 +26,23 @@ import nltk
 nltk.download()
 ```
 
-
 ## What is this all about?
 This is a repo with the code to my 3rd year coursework. Its title is _Linguistic Analysis of Stage Directions in Russian Drama from the 18th to the 20th Century_, so it's going to be all stage directions and all linguistic :)
 
-### What I want to achieve
-A great result would be the classification of stage directions according to TEI-5 markup convention. It looks as this:
+### Work objectives
+1. Perform some neat corpus analysis on the Russian Drama Corpus.
 
-* setting,
-* entrance,
-* exit,
-* business,
-* novelistic,
-* delivery,
-* modifier,
-* location,
-* mixed.
+2. A great result would be the classification of stage directions according to the [TEI-5 markup standard](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-stage.html). According to it, stage directions have 9 types:
 
-More info here: http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-stage.html
+    * setting,
+    * entrance,
+    * exit,
+    * business,
+    * novelistic,
+    * delivery,
+    * modifier,
+    * location,
+    * mixed.
 
 ## "Roadmap" and current state-of-affairs
 - [x] get the corpus from the repository
@@ -51,13 +50,13 @@ More info here: http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-stage.ht
 - [x] get mean values of different parts-of-speech
 - [x] try visualize the data (because why not)
 - [x] annotate some directions
-- [ ] try run a Decision Tree / Random Forest / PCA / kNN / something else
-- [ ] _in process:_ write a paper
-- [ ] present it
+- [x] do machine learning experiments: ran kNN, Decision Tree, and Random Forest in [classification.ipynb](./classification.ipynb). 
+- [x] write a paper
+- [ ] present the paper and the results with the handouts
 
 ### Deadlines
-1. _Somewhere around **May 18th**_ — sharing the paper with the reviewer,
-2. __May 23rd__ — uploading the paper into the system,
+1. __May 18th__ — sharing the paper with the reviewer,
+2. __May 22nd__ — uploading the paper into the system,
 3. __May 25th__ — presentation.
 
 ## Source corpus
