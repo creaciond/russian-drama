@@ -10,6 +10,21 @@ This is a repo with the code to my 3rd year coursework. Its title is _Linguistic
 
 Check out my slides for EADH 2018 conference [here](https://drive.google.com/file/d/18eLKz6-E2wqjUUZNo5NrnwOSb00WfUNx/view?usp=sharing); basically, they cover everything I did for this course paper. 
 
+### Work objectives
+1. Perform some neat corpus analysis on the Russian Drama Corpus.
+
+2. A great result would be the classification of stage directions according to the [TEI-5 markup standard](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-stage.html). According to it, stage directions have 9 types:
+
+    * setting,
+    * entrance,
+    * exit,
+    * business,
+    * novelistic,
+    * delivery,
+    * modifier,
+    * location,
+    * mixed.
+
 ## What's in the repo?
 
 |                        File/folder                          |                                What's inside                        |
@@ -31,21 +46,6 @@ import nltk
 nltk.download()
 ```
 
-### Work objectives
-1. Perform some neat corpus analysis on the Russian Drama Corpus.
-
-2. A great result would be the classification of stage directions according to the [TEI-5 markup standard](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-stage.html). According to it, stage directions have 9 types:
-
-    * setting,
-    * entrance,
-    * exit,
-    * business,
-    * novelistic,
-    * delivery,
-    * modifier,
-    * location,
-    * mixed.
-
 ## "Roadmap" and current state-of-affairs
 - [x] get the corpus from the repository
 - [x] extract basic information
@@ -54,7 +54,7 @@ nltk.download()
 - [x] annotate some directions
 - [x] do machine learning experiments: ran kNN, Decision Tree, and Random Forest in [classification.ipynb](./classification.ipynb). 
 - [x] write a paper
-- [ ] present the paper and the results with the handouts
+- [x] present the paper and the results with the handouts
 
 ### Deadlines
 1. __May 18th__ — sharing the paper with the reviewer,
