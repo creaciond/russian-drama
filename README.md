@@ -3,7 +3,12 @@
 
 > <h3> Stage directions, quite literally, don't count. </h3>
 >   
-> In: Hardin L. Aasand (ed.): *Stage Directions in Hamlet. New essays and new directions.* Madison et al. 2003, p. 226. 
+> In: Hardin L. Aasand (ed.): *Stage Directions in Hamlet. New essays and new directions.* Madison et al. 2003, p. 226.
+
+## What is this all about?
+This is a repo with the code to my 3rd year coursework. Its title is _Linguistic Analysis of Stage Directions in Russian Drama from the 18th to the 20th Century_, so it's going to be all stage directions and all linguistic :)
+
+Check out my slides for EADH 2018 conference [here](https://drive.google.com/file/d/18eLKz6-E2wqjUUZNo5NrnwOSb00WfUNx/view?usp=sharing); basically, they cover everything I did for this course paper. 
 
 ## What's in the repo?
 
@@ -25,11 +30,6 @@ All the dependencies are listed in `requirements.txt`. As a sidenote: the majori
 import nltk
 nltk.download()
 ```
-
-## What is this all about?
-This is a repo with the code to my 3rd year coursework. Its title is _Linguistic Analysis of Stage Directions in Russian Drama from the 18th to the 20th Century_, so it's going to be all stage directions and all linguistic :)
-
-Check out my slides for EADH 2018 conference [here](https://drive.google.com/file/d/18eLKz6-E2wqjUUZNo5NrnwOSb00WfUNx/view?usp=sharing); basically, they cover everything I did for this course paper.
 
 ### Work objectives
 1. Perform some neat corpus analysis on the Russian Drama Corpus.
