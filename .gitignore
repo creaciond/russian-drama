@@ -100,6 +100,9 @@ ENV/
 # mypy
 .mypy_cache/
 
-# other trash
+# PyCharm 
 .idea/
+
+# Mac OS X
+.DS_Store
 
